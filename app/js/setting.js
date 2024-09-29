@@ -34,22 +34,6 @@ settings.onclick = () => {
                     <p class="form_error" style="display: none"></p>
                 </div>
                 <div class="settings_block">
-                    <p>Accent color</p>
-                    <div id="block_container">
-                        <div class="block ac_colors" style="background:${color[0]}"></div>
-                        <div class="block ac_colors" style="background:${color[1]}"></div>
-                        <div class="block ac_colors" style="background:${color[2]}"></div>
-                        <div class="block ac_colors" style="background:${color[3]}"></div>
-                        <div class="block ac_colors" style="background:${color[4]}"></div>
-                        <div class="block ac_colors" style="background:${color[5]}"></div>
-                        <div class="block ac_colors block_active" style="display: none"></div>
-                    </div>
-                    <div>
-                        <label for="accent_picker" class="modal_input_label">Custom color</label>
-                        <input type="color" id="accent_picker" value="#005366">
-                    </div>
-                </div>
-                <div class="settings_block">
                     <div class="settings_block settings_block_container">
                         <p>Use 24-hour format</p>
                         <label class="switch_outline" for="24hour">
@@ -118,49 +102,6 @@ settings.onclick = () => {
         blockActive(imgBlock);
         imgBlock[a].classList.add("block_active");
         localStorage.setItem("backgroundImage", b);
-    }
-
-    function attPicked(i) {accentPicker.setAttribute("value", i)}
-
-    function updateColor(n) {
-        changeAccentColor(color[n], n);
-        setAccentText();
-    }
-
-    function blockActive(a) {
-        a[0].classList.remove("block_active");
-        a[1].classList.remove("block_active");
-        a[2].classList.remove("block_active");
-        a[3].classList.remove("block_active");
-        a[4].classList.remove("block_active");
-        a[5].classList.remove("block_active");
-        a[6].style.display = "none";
-    }
-
-    function changeAccentColor(a, b) {
-        attPicked(a);
-        blockActive(acColors);
-        acColors[b].classList.add("block_active");
-        document.documentElement.style.setProperty("--accentColor", accentPicker.getAttribute("value"));
-        localStorage.setItem("accentColor", accentPicker.getAttribute("value"));
-    }
-
-    function checkAccentColor(color) {
-        const r = parseInt(color.slice(1, 3), 16);
-        const g = parseInt(color.slice(3, 5), 16);
-        const b = parseInt(color.slice(5, 7), 16);
-        const luminance = (0.2126 * r) + (0.7152 * g) + (0.0722 * b);
-        return luminance >= 128;
-    }
-
-    function setAccentText() {
-        if (checkAccentColor(localStorage.getItem("accentColor"))) {
-            document.documentElement.style.setProperty("--accentText", "#1A1A1B");
-            localStorage.setItem("accentText", "#1A1A1B");
-        } else {
-            document.documentElement.style.setProperty("--accentText", "#ffffff");
-            localStorage.setItem("accentText", "#ffffff");
-        }
     }
     
     // ##########################
