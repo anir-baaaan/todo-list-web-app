@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Fredoka:wght@300..700&family=Playwrite+US+Trad:wght@100..400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: "Fredoka", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: #4E5340;
+    color: #E2E8DD;
+}
+
+header {
+    padding-top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 9%;
+    background-color: #4E5340;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+header .logo {
+    font-family: "Playwrite US Trad", cursive;
+    color: #B7D1DA;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 3rem;
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+header .logo:hover {
+    transform: scale(1.05);
+}
+
+header nav a {
+    font-size: 1.8rem;
+    color: #E2E8DD;
+    margin-left: 4rem;
+    font-weight: 500;
+    transition: 0.5s ease;
+    border-bottom: 3px solid transparent;
+}
+
+header nav a:hover {
+    color: #B7D1DA;
+    border-bottom: 3px solid #B7D1DA;
+}
+
+header nav a.emphasis {
+    background-color: #B7D1DA;
+    color: #4E5340;
+    padding: 4px 12px 6px 12px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 7px #B7D1DA;
+    transition: 0.3s ease;
+    border-bottom: none;
+}
+
+header nav a.emphasis:hover {
+    background-color: #E2E8DD;
+    color: #4E5340;
+    box-shadow: 0px 0px 11px #E2E8DD;
+}
+
+section {
+    min-height: 100vh;
+    padding: 5rem 9% 5rem;
+}
+
+section#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+}
+
+section#home .home_content h1, h3 {
+    font-family: "Comfortaa", system-ui;
+    font-optical-sizing: auto;
+    font-size: 5rem;
+    font-weight: 900;
+    line-height: 1.3;
+}
+
+section#home .home_content h3 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+section#home .home_content p {
+    font-size: 2rem;
+}
+
+section#home .home_content a {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #B7D1DA;
+    color: #4E5340;
+    padding: 5px 15px 7px 15px;
+    margin-top: 20px;
+    border-radius: 20px;
+    transition: 0.2s ease;
+    border-bottom: none;
+}
+
+section#home .home_content a:hover {
+    background-color: #E2E8DD;
+    color: #4E5340;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #E2E8DD;
+}
+
+section#features, section#about {
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    align-items: center;
+}
