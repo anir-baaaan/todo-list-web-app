@@ -87,7 +87,12 @@ img {
 	height: auto;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1000px) {
+	body {
+		overflow-x: hidden;
+		overflow-y: auto;
+	}
+
 	a.logo {
 		font-size: 3rem;
 	}
@@ -106,5 +111,9 @@ img {
 
 	div.home_content a.button {
 		font-size: 1rem;
+	}
+
+	img {
+		max-width: 95vw;
 	}
 }
