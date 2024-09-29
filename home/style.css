@@ -86,3 +86,25 @@ img {
 	max-width: 70vw;
 	height: auto;
 }
+
+@media screen and (max-width: 480px) {
+	a.logo {
+		font-size: 3rem;
+	}
+
+	div.home_content h1, h3 {
+		font-size: 3rem;
+	}
+
+	div.home_content h3 {
+		font-size: 2rem;
+	}
+
+	div.home_content p {
+		font-size: 1rem;
+	}
+
+	div.home_content a.button {
+		font-size: 1rem;
+	}
+}
