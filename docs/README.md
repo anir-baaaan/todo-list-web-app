@@ -21,6 +21,12 @@ As it was mentioned in our chosen we are confident that we gave our best to Crea
   
 Here are the list of all the resources we used and in which way they actually helped us.
 
+## TECHNOLOGIES USED
+* HTML, CSS, JS
+* VS Code, Neovim
+* Canva, Pixlr, Google Fonts, Coolors
+* Git, GitHub, GitHub Pages
+
 ## INSPIRATION
 
 
