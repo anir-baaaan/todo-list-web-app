@@ -7,16 +7,16 @@ NOTE: Please note, commits pushed after deadline we only documentation changes. 
 ![image](https://github.com/user-attachments/assets/7435e8f9-6142-4bb5-bb96-b7954dea6317)
 
 # *Life Manager*
-### Hackathon Project (HT-103)
-### By team *sdh_cscs*
-####  Anirban RoyChowdhury | Dwaipayan Bose | Soumyajit Ghosh  
+#### Hackathon Project (HT-103)
+#### By team *sdh_cscs*
+#####  Anirban RoyChowdhury | Dwaipayan Bose | Soumyajit Ghosh  
 
   
 This short info note compiles the references and resources used during the development of the *Life Manager* hackathon project. It includes a variety of sources such as websites, web applications, video tutorials, role model applications, and design templates that were essential in shaping the project’s concept and execution. These materials provided the team with valuable insights into building an innovative solution aimed at simplifying daily task management.
 
 Each reference was thoroughly reviewed to ensure adherence to best practices, current technologies, and relevant industry standards. This note of thanks is organized to showcase the diversity of the materials used, offering a clear and accessible path for those interested in exploring the knowledge that contributed to the project’s overall success.
 
-## About the Project
+## ABOUT THE PROJECT
 As it was mentioned in our chosen we are confident that we gave our best to Create a fully functional to-do list application where users can easily manage their tasks. Users should be able to add new tasks, edit existing ones, delete them, categorize tasks into different groups (such as work, personal, or urgent). The app should offer a simple yet intuitive interface, allowing users to organize and track their productivity efficiently.  
   
 Here are the list of all the resources we used and in which way they actually helped us.
