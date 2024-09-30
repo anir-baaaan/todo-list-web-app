@@ -21,9 +21,7 @@ Here are the list of all the resources we used and in which way they actually he
 
 | Rank | NAME AND LINK |
 |-----:|---------------|
-|     1|      [TRELLO](https://trello.com/) -                                                                                          This web app served as the basic role model for our project and gave us the very primitive ideas of where and how to start off. Although it was written in the topic about what features should be there in our web application but it was quite impossible to think it out of the brain without any proper example and that was where this app came handy for us.  
-![image](https://github.com/user-attachments/assets/606b6264-bd90-446a-8c96-91b781baf3ea)  
-Therefore we can undoubtedly accept that, Trello, a popular project management app, served as the foundation for developing Life Manager. Its structure and functionality greatly influenced the creation of their solution for Tier I problem statements in the Hackathon. The inspiration from Trello was crucial, much like how a plant cannot survive without roots. ![alt text](Features-Graphic-Cards.jpg)         |
+|     1|      [TRELLO](https://trello.com/) -                                                                                          This web app served as the basic role model for our project and gave us the very primitive ideas of where and how to start off. Although it was written in the topic about what features should be there in our web application but it was quite impossible to think it out of the brain without any proper example and that was where this app came handy for us.  ![image](https://github.com/user-attachments/assets/606b6264-bd90-446a-8c96-91b781baf3ea)  Therefore we can undoubtedly accept that, Trello, a popular project management app, served as the foundation for developing Life Manager. Its structure and functionality greatly influenced the creation of their solution for Tier I problem statements in the Hackathon. The inspiration from Trello was crucial, much like how a plant cannot survive without roots. ![alt text](Features-Graphic-Cards.jpg)         |
 
 ## GRAPHICS & DESIGN
 
