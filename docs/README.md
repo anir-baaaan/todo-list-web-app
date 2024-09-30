@@ -1,7 +1,7 @@
 ## NOTES
 * Commits pushed after deadline were only documentation changes. Not a single line of code was touched.
 * The website is hosted live on GitHub Pages at [https://anir-baaaan.github.io/todo-list-web-app/](https://anir-baaaan.github.io/todo-list-web-app/)
-* Screenshots pdf available at [docs/Screenshots.pdf)[https://github.com/anir-baaaan/todo-list-web-app/blob/main/docs/Screeshots.pdf]
+* Screenshots pdf available at [docs/Screenshots.pdf](https://github.com/anir-baaaan/todo-list-web-app/blob/main/docs/Screeshots.pdf)
 * Original resources document created during 8hr prototype period available at [docs/Resources.docx](https://github.com/anir-baaaan/todo-list-web-app/blob/main/docs/Resources.docx)
 
 
