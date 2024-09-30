@@ -26,7 +26,8 @@ Here are the list of all the resources we used and in which way they actually he
 
 | No. | NAME AND LINK |
 |-----:|---------------|
-|     1| [*TRELLO*](https://trello.com/) - A team-based todo app and project management tool which was a big source of inspiration in the prototype and early stages. ![image](https://github.com/user-attachments/assets/11c8034f-f00a-4d9d-9980-6d0f7517225a) |
+|     1| [![image](https://github.com/user-attachments/assets/11c8034f-f00a-4d9d-9980-6d0f7517225a)](https://trello.com/)|
+|       |A team-based todo app and project management tool which was a big source of inspiration in the prototype and early stages.  |
 
 ## GRAPHICS & DESIGN
 
