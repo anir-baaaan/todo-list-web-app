@@ -45,6 +45,8 @@ Here are the list of all the resources we used and in which way they actually he
 
 ## WEB & VIDEO TUTORIALS
 ### [YOUTUBE VIDEOS](https://www.youtube.com/)
+![image](https://github.com/user-attachments/assets/8cc3715e-003b-44e2-b013-ea4a6236fedf)
+
 
 | Rank | Name of Video and Channel |
 |-----:|---------------|
@@ -54,16 +56,13 @@ Here are the list of all the resources we used and in which way they actually he
 |     4|[*Personal Portfolio Website using HTML & CSS Only - How to Create Personal Website-Codehal*](https://youtu.be/k3F1PyBX8pI?si=qXeHyfK72wzkNea-)  |
 
 ### [WEBPAGE TUTORIAL](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
+![image](https://github.com/user-attachments/assets/cf302fa9-4a9a-433a-ba00-ac5b1f9d38cc)
 
 We would like to express our deepest appreciation and heartfelt gratitude to the creators of this webpage that provided an exceptional guide on building a "To-Do List App using HTML, CSS, and JavaScript." This was the bane of the existance of our initial prototype.
 
 
-## TOOLS OF ARTIFICIAL INTELLIGENCE
-Artificial intelligence tools like ChatGPT and Blackbox AI have significantly revolutionized the development of a proper to-do list web application by streamlining various aspects of the project, such as coding, graphics design, layout, and user interface (UI) development.
-![alt text](<ChadGPT Logo.png>)
+## A.I. TOOLS
+Artificial intelligence tools like ChatGPT and Blackbox AI have significantly revolutionized the development of a proper to-do list web application by streamlining various aspects of the project, such as coding, graphics design, layout, and user interface (UI) development.  
+![image](https://github.com/user-attachments/assets/a3775b7d-f716-4ad1-b7db-22fc4fbdf528)
+![image](https://github.com/user-attachments/assets/96761830-cf12-40ac-83b5-d7292c2b1123)
 
-![alt text](image-8.png)
-Screenshot of work progress in ChatGPT
-
-![alt text](image-9.png)
-Screenshot of work progress in Blackbox AI
