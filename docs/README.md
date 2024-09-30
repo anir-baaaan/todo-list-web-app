@@ -1,5 +1,3 @@
-# Todo List Web App
-
 ```
 NOTE: Please note, commits pushed after deadline we only documentation changes. Not a single line of code was touched.
 ```
