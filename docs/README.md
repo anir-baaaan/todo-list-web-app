@@ -21,28 +21,22 @@ Here are the list of all the resources we used and in which way they actually he
 
 | No. | NAME AND LINK |
 |-----:|---------------|
-|     1|      [TRELLO](https://trello.com/) - A team-based todo app and project management tool with had a big influence in the prototype and early stages. ![image](https://github.com/user-attachments/assets/11c8034f-f00a-4d9d-9980-6d0f7517225a)
-
- |
+|     1| [TRELLO](https://trello.com/) - A team-based todo app and project management tool which was a big source of inspiration in the prototype and early stages. ![image](https://github.com/user-attachments/assets/11c8034f-f00a-4d9d-9980-6d0f7517225a) |
 
 ## GRAPHICS & DESIGN
 
 
 | No. | Name and Link |
 |-----:|---------------|
-|     1|[*GOOGLE FONTS*](https://fonts.google.com)                           -                                                           This is the app of Google which helped us to get the possible fonts for our web app name, title, user interface words and so on. This app helped us to search for cool fonts beyond the limits of the pre installed fonts in our Windows systems and we tried to make the best out of this web application.                                                                                                       ![alt text](<Google Fonts.png>)                                                                                                    Google, known for its useful apps, was essential to the hackathon project through Google Fonts. The team downloaded and installed three fonts—Comfortaa, Fredoka, and Playwrite USA (Traditional)—which were crucial for achieving a good design and maintaining a pleasant look for the web application. These fonts enhanced both the normal text and title design. ![alt text](<Google Fonts-2.png>)               |
-|     2|[*COOLORS*](https://coolors.co/)                                                                             -                    For making any application, a proper colour scheme and code is necessary right? A colour scheme should be chosen very properly so that the colours and textures were according to the mood, theme and the basic tasks of the web applications. Therefore, we took the help of Coolors in this regard so that our choice becomes better as well as faster.                                                             ![alt text](Coolors-1.png)                                                                                                           The Coolors web app played a key role in designing the Life Manager web app by providing optimal color combinations that aligned with the project's themes. It simplified the process of selecting proper color shades for the user interface, saving significant time and effort. Knowing about this app made the task of choosing colors quick and efficient.                                                    ![alt text](SDH_COLORPALETTE.png)         |
-|     3|[*CANVA*](https://www.canva.com/en_in/)                                                      -                                  Canva, a very popular mobile as well as a desktop app with a collection of some of the best logo templates gave us a nice preliminary idea of a proper logo based on the topic of our project. Although we used another app of the same kind for the finishing touches but the initial logo making thoughts came to our minds by having a look at Canva's wonderful collection.                                    ![alt text](Canva-1.png)                                                                                                             Canva, a widely known logo maker app, was the team's top choice for creating an attractive logo for their web app. Its free designs and templates made the process easy, offering enough creative options to eliminate concerns about logo design. With Canva’s premade ideas, only a bit of creativity was needed to complete the task.                                                                               ![alt text](Canva-2-1.jpg)               |
-|     4|[*PIXLR](https://pixlr.com/)          -                                                                                      PIXLR web application helped us in the completion of our logo designing. **Since it doesnt matter how you begin it but what matters is how you end it*, I cant express how much grateful we are to the contributions of this app for finishing the logo.                                         ![alt text](PixlR-1.png)                                                                                                            Pixlr played a crucial role in finalizing the layout and logo for the hackathon project. While the initial logo was created using Canva, Pixlr was used for minor but important finishing touches. These small adjustments made the logo more refined and attractive, highlighting the app's significance in completing the design.                                                                        ![alt text](PixlR-2.png)               |
+|     1|[*GOOGLE FONTS*](https://fonts.google.com) - A huge repository for free to use fonts which powered every single character in out website. ![image](https://github.com/user-attachments/assets/cd392787-2c5b-48a2-ac8b-0fe35227f59d) |
+|     2|[*COOLORS*](https://coolors.co/) - A random color scheme generator which powered all the colors used in the website. ![image](https://github.com/user-attachments/assets/719c0fc4-34cb-4c4a-8d94-6aed0e00f6d2) |
+|     3|[*CANVA*](https://www.canva.com/en_in/) - A versatile graphic design tool which aided in layout design and powered some of the graphics used in the website. ![image](https://github.com/user-attachments/assets/765a914b-9d76-49ed-8caf-ce9fed27f0f2)
+ |
+|     4|[*PIXLR](https://pixlr.com/) - A versatile online photo editor which aided in the manipulation and editing and conecpt design of the photos and graphics used in the website. ![Uploading image.png…]()
+|
 
 ## WEB & VIDEO TUTORIALS
 ### [YOUTUBE VIDEOS](https://www.youtube.com/)
-
-We express our heartfelt gratitude to YouTube tutorial creators for making our web development journey enjoyable and feasible. Initially overwhelmed by programming complexities, we found their step-by-step guidance invaluable. The instructors’ clear explanations, covering topics from HTML and CSS to JavaScript and database integration, boosted our confidence in tackling projects. These tutorials helped us troubleshoot and stay motivated, making the learning curve manageable. Without these resources, we couldn't have grown and experimented as effectively, highlighting the significant impact of their shared knowledge on our coding journey.
-![alt text](YT-1.png)
-
-Here is the complete list of all the YouTube Video Tutorials that had helped us:
-
 
 | Rank | Name of Video and Channel |
 |-----:|---------------|
