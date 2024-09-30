@@ -10,7 +10,7 @@ Hackathon Project (HT-103)
 By team *sdh_cscs*
 Anirban RoyChowdhury | Dwaipayan Bose | Soumyajit Ghosh
 ```
-
+The website is hosted live on GitHub Pages at [https://anir-baaaan.github.io/todo-list-web-app/](https://anir-baaaan.github.io/todo-list-web-app/)
   
 This short info note compiles the references and resources used during the development of the *Life Manager* hackathon project. It includes a variety of sources such as websites, web applications, video tutorials, role model applications, and design templates that were essential in shaping the project’s concept and execution. These materials provided the team with valuable insights into building an innovative solution aimed at simplifying daily task management.
 
