@@ -59,10 +59,3 @@ Here are the list of all the resources we used and in which way they actually he
 ![image](https://github.com/user-attachments/assets/cf302fa9-4a9a-433a-ba00-ac5b1f9d38cc)
 
 We would like to express our deepest appreciation and heartfelt gratitude to the creators of this webpage that provided an exceptional guide on building a "To-Do List App using HTML, CSS, and JavaScript." This was the bane of the existance of our initial prototype.
-
-
-## A.I. TOOLS
-Artificial intelligence tools like ChatGPT and Blackbox AI have significantly revolutionized the development of a proper to-do list web application by streamlining various aspects of the project, such as coding, graphics design, layout, and user interface (UI) development.  
-![image](https://github.com/user-attachments/assets/a3775b7d-f716-4ad1-b7db-22fc4fbdf528)
-![image](https://github.com/user-attachments/assets/96761830-cf12-40ac-83b5-d7292c2b1123)
-
