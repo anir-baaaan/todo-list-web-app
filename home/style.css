@@ -21,7 +21,7 @@ body {
 	width: 100%;
 	min-height: 100vh;
 	padding: 5rem 9% 5rem;
-	overflow: hidden;
+	overflow-x: hidden;
 	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://wallpaperaccess.com/full/1779187.jpg");
 	background-repeat: no-repeat, no-repeat;
 	color: #E2E8DD;
@@ -29,7 +29,7 @@ body {
 	flex-wrap: wrap;	
 	justify-content: center;
 	align-items: center;
-	gap: 8rem;
+	gap: 5rem;
 }
 
 a.logo {
@@ -87,10 +87,9 @@ img {
 	height: auto;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
 	body {
-		overflow-x: hidden;
-		overflow-y: auto;
+		gap: 0;
 	}
 
 	a.logo {
@@ -111,5 +110,9 @@ img {
 
 	div.home_content a.button {
 		font-size: 1rem;
+	}
+
+	img {
+		max-width: 80vw;
 	}
 }
