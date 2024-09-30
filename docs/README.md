@@ -3,7 +3,7 @@
 * The website is hosted live on GitHub Pages at [https://anir-baaaan.github.io/todo-list-web-app/](https://anir-baaaan.github.io/todo-list-web-app/)
 
 
-# **Life Manager**
+# **LIFE MANAGER**
 ```
 Hackathon Project (HT-103)
 By team *sdh_cscs*
