@@ -28,7 +28,8 @@ Here are the list of all the resources we used and in which way they actually he
 
 | No. | Name and Link |
 |-----:|---------------|
-|     1|[*GOOGLE FONTS*](https://fonts.google.com) - A huge repository for free to use fonts which powered every single character in out website. ![image](https://github.com/user-attachments/assets/cd392787-2c5b-48a2-ac8b-0fe35227f59d) |
+|     1|  ![image](https://github.com/user-attachments/assets/cd392787-2c5b-48a2-ac8b-0fe35227f59d)  
+[*GOOGLE FONTS*](https://fonts.google.com) - A huge repository for free to use fonts which powered every single character in out website. |
 |     2|[*COOLORS*](https://coolors.co/) - A random color scheme generator which powered all the colors used in the website. ![image](https://github.com/user-attachments/assets/dc1e06ca-f1e7-4a7d-a865-83d0a077abd6) |
 |     3|[*CANVA*](https://www.canva.com/en_in/) - A versatile graphic design tool which aided in layout design and powered some of the graphics used in the website. ![image](https://github.com/user-attachments/assets/765a914b-9d76-49ed-8caf-ce9fed27f0f2) |
 |     4|[*PIXLR*](https://pixlr.com/) - A versatile online photo editor which aided in the manipulation and editing and conecpt design of the photos and graphics used in the website. ![image](https://github.com/user-attachments/assets/4632332e-cf45-4615-9b2c-2a9f23044b5d) |
