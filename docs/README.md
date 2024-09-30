@@ -1,6 +1,6 @@
 # Todo List Web App
+![image](https://github.com/user-attachments/assets/a54dcf4e-005f-4073-8dfd-42ee8c0ba0e2)
 
-![alt text](Logo.jpeg)
 # *Life Manager*
 ### Hackathon Project (HT-103)
 ### By team *sdh_cscs*
