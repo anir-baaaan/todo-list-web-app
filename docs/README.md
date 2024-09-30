@@ -4,7 +4,7 @@ NOTE: Please note, commits pushed after deadline we only documentation changes. 
 
 ![image](https://github.com/user-attachments/assets/7435e8f9-6142-4bb5-bb96-b7954dea6317)
 
-# *Life Manager*
+# ***Life Manager***
 #### Hackathon Project (HT-103)
 #### By team *sdh_cscs*
 #####  Anirban RoyChowdhury | Dwaipayan Bose | Soumyajit Ghosh  
