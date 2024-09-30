@@ -12,7 +12,7 @@ This short info note compiles the references and resources used during the devel
 Each reference was thoroughly reviewed to ensure adherence to best practices, current technologies, and relevant industry standards. This note of thanks is organized to showcase the diversity of the materials used, offering a clear and accessible path for those interested in exploring the knowledge that contributed to the project’s overall success.
 
 ## About the Project
-As it was mentioned in our chosen we are confident that we gave our best to Create a fully functional to-do list application where users can easily manage their tasks. Users should be able to add new tasks, edit existing ones, delete them, categorize tasks into different groups (such as work, personal, or urgent), and set deadlines with reminders. Implement task prioritization and filtering options for a better user experience. The app should offer a simple yet intuitive interface, allowing users to organize and track their productivity efficiently.  
+As it was mentioned in our chosen we are confident that we gave our best to Create a fully functional to-do list application where users can easily manage their tasks. Users should be able to add new tasks, edit existing ones, delete them, categorize tasks into different groups (such as work, personal, or urgent). The app should offer a simple yet intuitive interface, allowing users to organize and track their productivity efficiently.  
   
 Here are the list of all the resources we used and in which way they actually helped us.
 
