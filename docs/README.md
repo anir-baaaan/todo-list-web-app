@@ -19,15 +19,16 @@ Here are the list of all the resources we used and in which way they actually he
 ## INSPIRATION
 
 
-| Rank | NAME AND LINK |
+| No. | NAME AND LINK |
 |-----:|---------------|
-|     1|      [TRELLO](https://trello.com/) - A team-based todo app and project management tool with had a big influence in the prototype and early stages. ![image](https://github.com/user-attachments/assets/22cd041f-edc0-4b41-9334-da72b6d95433)
+|     1|      [TRELLO](https://trello.com/) - A team-based todo app and project management tool with had a big influence in the prototype and early stages. ![image](https://github.com/user-attachments/assets/11c8034f-f00a-4d9d-9980-6d0f7517225a)
+
  |
 
 ## GRAPHICS & DESIGN
 
 
-| Rank | Name and Link |
+| No. | Name and Link |
 |-----:|---------------|
 |     1|[*GOOGLE FONTS*](https://fonts.google.com)                           -                                                           This is the app of Google which helped us to get the possible fonts for our web app name, title, user interface words and so on. This app helped us to search for cool fonts beyond the limits of the pre installed fonts in our Windows systems and we tried to make the best out of this web application.                                                                                                       ![alt text](<Google Fonts.png>)                                                                                                    Google, known for its useful apps, was essential to the hackathon project through Google Fonts. The team downloaded and installed three fonts—Comfortaa, Fredoka, and Playwrite USA (Traditional)—which were crucial for achieving a good design and maintaining a pleasant look for the web application. These fonts enhanced both the normal text and title design. ![alt text](<Google Fonts-2.png>)               |
 |     2|[*COOLORS*](https://coolors.co/)                                                                             -                    For making any application, a proper colour scheme and code is necessary right? A colour scheme should be chosen very properly so that the colours and textures were according to the mood, theme and the basic tasks of the web applications. Therefore, we took the help of Coolors in this regard so that our choice becomes better as well as faster.                                                             ![alt text](Coolors-1.png)                                                                                                           The Coolors web app played a key role in designing the Life Manager web app by providing optimal color combinations that aligned with the project's themes. It simplified the process of selecting proper color shades for the user interface, saving significant time and effort. Knowing about this app made the task of choosing colors quick and efficient.                                                    ![alt text](SDH_COLORPALETTE.png)         |
