@@ -1,4 +1,9 @@
 # Todo List Web App
+
+```
+NOTE: Please note, commits pushed after deadline we only documentation changes. Not a single line of code was touched
+```
+
 ![image](https://github.com/user-attachments/assets/a54dcf4e-005f-4073-8dfd-42ee8c0ba0e2)
 
 # *Life Manager*
