@@ -3,8 +3,8 @@
 ```
 NOTE: Please note, commits pushed after deadline we only documentation changes. Not a single line of code was touched
 ```
-![Uploading image.png…]()
 
+![image](https://github.com/user-attachments/assets/7435e8f9-6142-4bb5-bb96-b7954dea6317)
 
 # *Life Manager*
 ### Hackathon Project (HT-103)
