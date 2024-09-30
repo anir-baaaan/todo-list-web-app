@@ -48,26 +48,15 @@ Here are the list of all the resources we used and in which way they actually he
 
 | Rank | Name of Video and Channel |
 |-----:|---------------|
-|     1|[*Build a Todo List App in HTML CSS JavaScript EASY BEGINNER TUTORIAL-Devression*](https://youtu.be/q0-N_w0Op84?si=lv3MOsTSSBWqXiCx)       ![alt text](image-1.png)                                |
-|     2|[*Create A Portfolio Website Using HTML and CSS Only - Easy Tutorial-Pro Coder*](https://youtu.be/-u3vE84Wo_U?si=MRFL_4sn_jricyAv) ![alt text](image-2.png)        |
-|     3|[*Build a Todo List App in HTML CSS JavaScript - EASY BEGINNER TUTORIAL-How to Become a Developer*](https://youtu.be/3OqWCGVaOkA?si=xUt9S_QHuOY-FuD0) ![alt text](image-3.png)              |
-|     4|[*Personal Portfolio Website using HTML & CSS Only - How to Create Personal Website-Codehal*](https://youtu.be/k3F1PyBX8pI?si=qXeHyfK72wzkNea-)       ![alt text](image-4.png)        |
+|     1|[*Build a Todo List App in HTML CSS JavaScript EASY BEGINNER TUTORIAL-Devression*](https://youtu.be/q0-N_w0Op84?si=lv3MOsTSSBWqXiCx)  |
+|     2|[*Create A Portfolio Website Using HTML and CSS Only - Easy Tutorial-Pro Coder*](https://youtu.be/-u3vE84Wo_U?si=MRFL_4sn_jricyAv)  |
+|     3|[*Build a Todo List App in HTML CSS JavaScript - EASY BEGINNER TUTORIAL-How to Become a Developer*](https://youtu.be/3OqWCGVaOkA?si=xUt9S_QHuOY-FuD0)     |
+|     4|[*Personal Portfolio Website using HTML & CSS Only - How to Create Personal Website-Codehal*](https://youtu.be/k3F1PyBX8pI?si=qXeHyfK72wzkNea-)  |
 
 ### [WEBPAGE TUTORIAL](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
 
-I would like to express my deepest appreciation and heartfelt gratitude to the creators of this webpage that provided an exceptional guide on building a "To-Do List App using HTML, CSS, and JavaScript." The thoroughness of the content, coupled with clear and concise explanations, made it an invaluable resource for anyone looking to develop a simple yet functional web application.
-![alt text](Non-Video-Tutorial.png)
+We would like to express our deepest appreciation and heartfelt gratitude to the creators of this webpage that provided an exceptional guide on building a "To-Do List App using HTML, CSS, and JavaScript." This was the bane of the existance of our initial prototype.
 
-The guide excelled in several key areas:
-
-1. Clarity of Instructions: Each step was detailed, helping even beginners understand the interaction between HTML, CSS, and JavaScript.
-Comprehensive Code Examples: Complete code snippets covered all aspects of app development, illustrating how components work together to create a functional application.
-2. Innovative Solutions: The guide introduced features like task management and local storage, transforming a simple to-do list into a practical application.
-3. Visual Appeal: CSS tips enhanced the app's aesthetics, while responsive design ensured usability across devices.
-4. Engagement with Best Practices: It emphasized modular code and organization, making the code easier to read and extend.
-
-In conclusion, this guide not only provided a tutorial but empowered aspiring developers to confidently create a fully functional to-do list app, deserving praise for its depth, practical insights, and supportive learning approach.
-![alt text](Non-Video-Tutorial-2.png)
 
 ## TOOLS OF ARTIFICIAL INTELLIGENCE
 Artificial intelligence tools like ChatGPT and Blackbox AI have significantly revolutionized the development of a proper to-do list web application by streamlining various aspects of the project, such as coding, graphics design, layout, and user interface (UI) development.
